@@ -1,0 +1,6 @@
+[submodule "submodules/media-server"]
+	path = submodules/media-server
+	url = https://github.com/ftdwild30/media-server.git
+[submodule "submodules/NetworkBase"]
+	path = submodules/NetworkBase
+	url = https://github.com/ftdwild30/NetworkBase.git
